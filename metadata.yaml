@@ -1,11 +1,16 @@
 _repo: Fairy-Tales-from-Gold-Lands_56155
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56155-h/images/cover.jpg
 creator:
   author:
     agent_name: Wentworth, May
     gutenberg_agent_id: '48697'
     url: http://www.gutenberg.org/2009/agents/48697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56155#Fairy-Tales-from-Gold-Lands
 gutenberg_issued: '2017-12-10'
 gutenberg_type: Text
 identifiers:
